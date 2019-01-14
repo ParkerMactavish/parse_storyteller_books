@@ -1,0 +1,6 @@
+2019/01/11 15:00 ~ 17:00
+Project started, added parse_args function.
+--
+2019/01/11 19:00 ~ 21:30
+Added all the argument parser settings
+--
